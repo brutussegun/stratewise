@@ -1,2 +1,0 @@
-# stratewise
-Stratewise Consulting LLC
